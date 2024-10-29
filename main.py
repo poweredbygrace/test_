@@ -13,5 +13,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('Michael')
     print_hi('Pull Changes')
+    print_hi('Merge from remote repo side')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
