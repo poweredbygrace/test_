@@ -14,4 +14,5 @@ if __name__ == '__main__':
     print_hi('Michael')
     print_hi('Pull Changes')
 
+    print_hi('Merge local repo end')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
